@@ -1,4 +1,4 @@
-```markdown
+
 # Flutter Food Recipe Application
 
 This is a Flutter project demonstrating a visually stunning and feature-rich food recipe application where users can explore various recipes, view detailed instructions, and manage their favorite dishes.
@@ -91,4 +91,3 @@ For any queries, suggestions, or to discuss the design choices, please open an i
 - Implement dark mode with carefully selected color palettes
 
 This application is designed not just as a functional tool, but as a visually pleasing and enjoyable experience for food enthusiasts. The attention to design details, animations, and user experience sets it apart as a showcase of what's possible with Flutter in creating beautiful, responsive, and feature-rich applications.
-```
