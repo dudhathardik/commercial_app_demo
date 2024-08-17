@@ -77,10 +77,6 @@ Contributions are welcome! If you'd like to improve the app, add new features, o
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
-
-For any queries, suggestions, or to discuss the design choices, please open an issue on GitHub or contact the repository owner.
-
 ## Future Improvements
 
 - Add user authentication to allow personal recipe collections
