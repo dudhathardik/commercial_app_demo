@@ -92,5 +92,3 @@ For any queries, suggestions, or to discuss the design choices, please open an i
 
 This application is designed not just as a functional tool, but as a visually pleasing and enjoyable experience for food enthusiasts. The attention to design details, animations, and user experience sets it apart as a showcase of what's possible with Flutter in creating beautiful, responsive, and feature-rich applications.
 ```
-
-This updated README now incorporates the emphasis on the application's design, animations, and additional filtering features. It highlights the visual aspects and user experience that make your application stand out. Feel free to further customize it if you have any specific design elements or features you'd like to emphasize even more.
